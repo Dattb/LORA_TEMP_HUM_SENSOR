@@ -1,0 +1,18 @@
+
+
+
+
+#include "main.h"
+#define RD_LORA_MODEL_GW							0
+#define RD_LORA_MODEL_LIGHT_SENSOR					1
+#define RD_LORA_MODEL_TEMP_HUM_SENSOR				2
+#define RD_LORA_MODEL_CO2_SENSOR				 	3
+#define RD_LORA_MODEL_GROUND_SENSOR		 			4
+
+
+#define RD_LORA_MODEL_SEL	  RD_LORA_MODEL_LIGHT_SENSOR
+
+
+
+
+
